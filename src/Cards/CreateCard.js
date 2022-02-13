@@ -19,7 +19,8 @@ export default function CreateCard() {
     fetchDeck();
   }, [deckId]);
 
-  const handleSubmit = async () => {
+  async function handleSubmit(event) {
+    event.preventDefault();
     let card = { front: cardFront, back: cardBack };
     await createCard(deckId, card);
     setCardFront("");
