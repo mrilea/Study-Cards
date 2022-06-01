@@ -29,5 +29,13 @@ Click done to stop adding/editing and return to the view deck screen. Saving a n
 ### Study Deck:
 
 ![study](screenshots/Study.png)
+![study flip](screenshots/StudyB.png)
+![restart prompt](screenshots/RestartPrompt.png)
 
 Flipping the card will show the answer on the 'back' of the card and reveal the next button. When the user finnishes the last card in the deck they will be prompted to restart the session or return to the homepage. 
+
+### Delete Deck:
+
+![delete deck](screenshots/DeletePrompt.png)
+
+Clicking the red trashcan icon will alert the user with a delete prompt.
