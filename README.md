@@ -1,5 +1,5 @@
-# Flashcards
-Users can create a deck, add, edit, or delete flashcards, and study decks of cards.
+# Study Cards
+Users can create a deck, add, edit, or delete study cards, and study decks of cards.
 
 ## Screenshots
 
