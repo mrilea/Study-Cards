@@ -1,6 +1,21 @@
 # Study Cards
 Users can create a deck, add, edit, or delete study cards, and study decks of cards.
 
+---
+## Features:
+ - create/delete decks
+ - add/remove/edit cards to/from/in decks
+ - view decks in a list
+ - select a deck to study
+    - flip through deck 1 card at a time, front then back
+    - this can be repeated as many times as the user would like
+
+## Technologies & Tools
+- JavaScript
+- HTML
+- Bootstrap
+- CSS
+
 ## Screenshots
 
 ### Home Page:
